@@ -11,11 +11,11 @@ setup(name='VLAP',
       install_requires=[
           'pandas',
           'scikit-learn',
-          'tensorflow',
-          'tensorflow_hub',
-          'tensorflow_addons',
-          'mlflow',
-          'numpy',
-          'transformers'
+          #'tensorflow',
+          #'tensorflow_hub',
+          #'tensorflow_addons',
+          #'mlflow',
+          #'numpy',
+          #'transformers'
       ],
       zip_safe=False)
