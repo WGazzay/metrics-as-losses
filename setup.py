@@ -10,7 +10,7 @@ setup(name='VLAP',
       packages=['VLAP'],
       install_requires=[
           'pandas',
-          'sklearn',
+          'scikit-learn',
           'tensorflow',
           'tensorflow_hub',
           'tensorflow_addons',
